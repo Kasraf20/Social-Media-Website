@@ -1,0 +1,32 @@
+.App{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  width: 100vw;
+}
+
+.post-container{
+  display: flex;
+  gap: 5px;
+}
+
+.post-card{
+  margin: 14px;
+}
+
+.delete-button{
+  position: relative;
+}
+
+.create-post{
+  width: 50%;
+  margin: 10px 10px;
+}
+
+.spinner{
+  margin: 50px 50px;
+}
+
+
